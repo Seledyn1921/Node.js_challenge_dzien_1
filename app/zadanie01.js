@@ -1,4 +1,4 @@
-const text = "Witam";
+const log = "Witam";
 setTimeout(()=>{się}, 1000);
 setTimeout(()=>{z}, 2000);
 setTimeout(()=>{programem}, 3000);
